@@ -1,3 +1,3 @@
-# Log Parsing using python
+# Python Log Parsing 
 
 > A script that reads stdin line by line and computes metrics
